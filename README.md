@@ -43,14 +43,5 @@ Other tools:
  - **Data**: Parsing (bs4, lxml, selenium), Excel (gspread, openpyxl)
  - **ML/AI**: scikit-learn, pandas/numpy/scipy, seaborn/matplotlib, opencv2, torch (FFNN, CV, LLM), tensorflow (LSTM)
  - **OS**: C++Qt, os, Win7/10/11, Ubuntu Linux, Enterprise Architect
- - **Management**: Notion, OneNote, Obsidian, Jira, AnyType
-
-### Github stats
-<div id="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gutsy51&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutsy51&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="">
-</div>
-
----
 
 > Last update: 2025-02-06
