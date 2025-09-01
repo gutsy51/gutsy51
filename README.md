@@ -19,8 +19,7 @@
 </div>
 
 ### About me
-- 🎓 I've been studying for 3 years (of 4) at SPbETU "LETI" university, Faculty of Computer Science and Technology (bachelor's degree)
-- 🔍 Currently learning **FastAPI**, **Docker**
+- 🎓 On my final 4th year at SPbETU "LETI" university, Faculty of Computer Science and Technology (bachelor's degree)
 - 🌍 I speak Russian (native), English (~B2-C1)
 - 💼 Know about my experiences: [CV](https://drive.google.com/drive/folders/1XOLqpCjNK1kU4ydMhP0ccdXvqoi_sfhs?usp=sharing)
 
@@ -38,10 +37,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" title="Heroku" width="40" height="40">
 </div>
 
+Main: Python, Django + DRF, FastAPI, SQL, Docker, GH Actions, HTML/CSS/JS
+
 Other tools:
  - **Bots**: Telegram (pytelegrambotapi, aiogram), VK (API, vk_api), Discord (discord)
  - **Data**: Parsing (bs4, lxml, selenium), Excel (gspread, openpyxl)
  - **ML/AI**: scikit-learn, pandas/numpy/scipy, seaborn/matplotlib, opencv2, torch (FFNN, CV, LLM), tensorflow (LSTM)
  - **OS**: C++Qt, os, Win7/10/11, Ubuntu Linux, Enterprise Architect
 
-> Last update: 2025-02-06
+> Last update: 2025-09-01
