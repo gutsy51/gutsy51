@@ -19,30 +19,39 @@
 </div>
 
 ### About me
-- 🎓 On my final 4th year at SPbETU "LETI" university, Faculty of Computer Science and Technology (bachelor's degree)
-- 🌍 I speak Russian (native), English (~B2-C1)
-- 💼 Know about my experiences: [CV](https://drive.google.com/drive/folders/1XOLqpCjNK1kU4ydMhP0ccdXvqoi_sfhs?usp=sharing)
+- 🎓 Bachelor of Science in Information Systems and Technologies (SPbETU "LETI")
+- 💼 Python Backend Developer with commercial experience (Sber, Granit Concern, Riterra/Leadburn). Building scalable APIs and LLM-powered services
+- 🔍 Interested in search systems, distributed backend architecture and LLM/RAG applications
+- 🌍 Russian (Native), English (B2-C1)
+- 📄 [Resume](https://drive.google.com/drive/folders/1XOLqpCjNK1kU4ydMhP0ccdXvqoi_sfhs?usp=sharing) (outdated)
 
 ### Languages and tools
-<div id="languages">          
+<div id="languages">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" width="40" height="40">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" width="40" height="40">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original-wordmark.svg" title="Django REST" width="40" height="40">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" width="40" height="40">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PSQL" width="40" height="40">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" width="40" height="40">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="40" height="40">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" title="Redis" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" width="40" height="40">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="40" height="40">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" title="Heroku" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" title="nginx" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" title="PyTorch" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40">
 </div>
 
-Main: Python, Django + DRF, FastAPI, SQL, Docker, GH Actions, HTML/CSS/JS
+Stack: Python · FastAPI · Django/DRF · Flask · PostgreSQL · SQLAlchemy · Redis · RabbitMQ · Celery · Docker · ELK · CI/CD
 
 Other tools:
- - **Bots**: Telegram (pytelegrambotapi, aiogram), VK (API, vk_api), Discord (discord)
- - **Data**: Parsing (bs4, lxml, selenium), Excel (gspread, openpyxl)
- - **ML/AI**: scikit-learn, pandas/numpy/scipy, seaborn/matplotlib, opencv2, torch (FFNN, CV, LLM), tensorflow (LSTM)
- - **OS**: C++Qt, os, Win7/10/11, Ubuntu Linux, Enterprise Architect
+ - **Databases & search**: PostgreSQL, SQLite, MongoDB, Redis, Elasticsearch/ELK, RDF
+ - **Async & infra**: Celery, RabbitMQ, Docker (Swarm), nginx, CI/CD, Linux
+ - **ML/AI & NLP**: PyTorch, scikit-learn, pandas/numpy/scipy, Sentence Transformers, LLM/RAG
 
-> Last update: 2025-09-01
+> Last update: 2026-07-01
